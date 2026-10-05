@@ -1,0 +1,7 @@
+# macOS metadata
+.DS_Store
+._*
+
+# Other hidden/system files
+*.swp
+*.swo
